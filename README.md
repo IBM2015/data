@@ -1,4 +1,4 @@
-# IBM = ?
+# IBM = Informática Biomédica
 
 ## Abstract 
 
@@ -16,7 +16,7 @@ Keywords: Rotavirus, epidemic modelling, vaccination protocols.
 
 * SIS describes a disease with no immunity against re-infection, to indicate that the passage of individuals is from the susceptible class to the infective class and then back to the susceptible class.
 
-* Other possibilities include SEIR and SEIS models, with an exposed period between being infected and becoming infective, and SIRS models, with temporary immunity on recovery from infection.
+* Other possibilities include SEIR, SEIRS and SEIS models, with an exposed period between being infected and becoming infective, and SIRS models, with temporary immunity on recovery from infection. Plus models with maternal acquired immunity and forced seasonality.
 
 
 
